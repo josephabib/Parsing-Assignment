@@ -1,0 +1,85 @@
+17 Jan 2018 11:06:50,056      - File type: xml
+17 Jan 2018 11:07:09,993      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:07:16,957      - John
+17 Jan 2018 11:07:17,908      - 25
+17 Jan 2018 11:08:31,557      - File type: xml
+17 Jan 2018 11:08:32,099      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:08:32,193      - John
+17 Jan 2018 11:08:32,193      - 25
+17 Jan 2018 11:09:16,006      - File type: xml
+17 Jan 2018 11:09:16,562      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:09:16,680      - John
+17 Jan 2018 11:09:16,681      - 25
+17 Jan 2018 11:09:16,732      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:09:16,841      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:09:16,991      - Afifi
+17 Jan 2018 11:09:16,992      - 30
+17 Jan 2018 11:09:16,997      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:09:17,104      - Success parsing file in 1106 milliseconds
+17 Jan 2018 11:17:42,537      - File type: xml
+17 Jan 2018 11:19:38,908      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:19:47,267      - John
+17 Jan 2018 11:19:51,980      - 25
+17 Jan 2018 11:19:56,236      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:20:10,460      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:20:16,156      - Afifi
+17 Jan 2018 11:20:17,539      - 30
+17 Jan 2018 11:20:19,083      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:20:25,092      - Success parsing file in 162176 milliseconds
+17 Jan 2018 11:23:02,093      - File type: xml
+17 Jan 2018 11:23:02,673      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:23:02,779      - John
+17 Jan 2018 11:23:02,779      - 25
+17 Jan 2018 11:23:02,788      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:23:02,942      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:23:03,108      - Afifi
+17 Jan 2018 11:23:03,108      - 30
+17 Jan 2018 11:23:03,117      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:23:03,237      - Success parsing file in 1152 milliseconds
+17 Jan 2018 11:26:52,958      - File type: xml
+17 Jan 2018 11:26:53,840      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:27:11,149      - File type: xml
+17 Jan 2018 11:27:11,770      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:27:11,884      - John
+17 Jan 2018 11:27:11,885      - 25
+17 Jan 2018 11:27:43,048      - File type: xml
+17 Jan 2018 11:27:43,676      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:27:43,797      - John
+17 Jan 2018 11:27:43,797      - 25
+17 Jan 2018 11:28:37,160      - File type: xml
+17 Jan 2018 11:28:37,786      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:28:39,014      - John
+17 Jan 2018 11:28:39,015      - 25
+17 Jan 2018 11:28:45,131      - File type: xml
+17 Jan 2018 11:28:45,754      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:28:46,699      - John
+17 Jan 2018 11:28:46,701      - 25
+17 Jan 2018 11:28:50,474      - File type: xml
+17 Jan 2018 11:28:51,097      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:29:23,261      - John
+17 Jan 2018 11:29:23,262      - 25
+17 Jan 2018 11:29:23,267      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:29:34,321      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:29:35,613      - Afifi
+17 Jan 2018 11:29:35,615      - 30
+17 Jan 2018 11:29:35,620      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:29:59,331      - File type: xml
+17 Jan 2018 11:29:59,963      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:30:01,206      - John
+17 Jan 2018 11:30:01,207      - 25
+17 Jan 2018 11:30:01,213      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:30:05,202      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:30:06,895      - Afifi
+17 Jan 2018 11:30:06,896      - 30
+17 Jan 2018 11:30:06,901      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:30:12,255      - Success parsing file in 12611 milliseconds
+17 Jan 2018 11:31:07,706      - File type: xml
+17 Jan 2018 11:31:08,355      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:31:10,395      - John
+17 Jan 2018 11:31:10,396      - 25
+17 Jan 2018 11:31:10,407      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:31:21,500      - Number of rows added in PERSON table: 1
+17 Jan 2018 11:31:22,326      - Afifi
+17 Jan 2018 11:31:22,327      - 30
+17 Jan 2018 11:31:22,333      - Number of rows added in CHILD table: 1
+17 Jan 2018 11:31:32,030      - Success parsing file in 24113 milliseconds

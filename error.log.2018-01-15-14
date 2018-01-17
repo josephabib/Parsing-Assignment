@@ -1,0 +1,71 @@
+15 Jan 2018 14:00:12,937      - File type: csv
+15 Jan 2018 14:08:00,009      - File type: csv
+15 Jan 2018 14:08:31,864      - File type: csv
+15 Jan 2018 14:16:36,959      - File type: csv
+15 Jan 2018 14:25:51,918      - File type: csv
+15 Jan 2018 14:25:55,272      - Age contains string
+15 Jan 2018 14:26:30,445      - File type: csv
+15 Jan 2018 14:26:40,521      - Joseph
+15 Jan 2018 14:26:45,657      - Habib
+15 Jan 2018 14:26:47,785      - Nasr
+15 Jan 2018 14:26:50,000      - 101
+15 Jan 2018 14:26:51,953      - Ali
+15 Jan 2018 14:26:53,824      - 29
+15 Jan 2018 14:27:18,250      - File type: csv
+15 Jan 2018 14:27:18,783      - Joseph
+15 Jan 2018 14:27:18,783      - Habib
+15 Jan 2018 14:27:18,785      - Nasr
+15 Jan 2018 14:27:18,785      - 101
+15 Jan 2018 14:27:18,785      - Ali
+15 Jan 2018 14:27:18,785      - 29
+15 Jan 2018 14:41:33,578      - File type: csv
+15 Jan 2018 14:41:34,248      - Joseph
+15 Jan 2018 14:41:34,248      - Habib
+15 Jan 2018 14:41:34,248      - Nasr
+15 Jan 2018 14:41:34,248      - 90
+15 Jan 2018 14:41:34,249      - Ali
+15 Jan 2018 14:41:34,249      - 29
+15 Jan 2018 14:42:53,631      - File type: csv
+15 Jan 2018 14:42:54,325      - Joseph
+15 Jan 2018 14:42:54,325      - Habib
+15 Jan 2018 14:42:54,325      - Nasr
+15 Jan 2018 14:42:54,325      - 90
+15 Jan 2018 14:42:54,326      - Ali
+15 Jan 2018 14:42:54,326      - 29
+15 Jan 2018 14:43:42,763      - Khalid
+15 Jan 2018 14:43:45,171      - Labib
+15 Jan 2018 14:43:47,355      - Helio
+15 Jan 2018 14:43:49,611      - 60
+15 Jan 2018 14:43:52,122      - Atef
+15 Jan 2018 14:43:54,624      - 19
+15 Jan 2018 14:51:33,952      - File type: csv
+15 Jan 2018 14:51:43,620      - Joseph
+15 Jan 2018 14:51:46,204      - Habib
+15 Jan 2018 14:51:48,380      - Nasr
+15 Jan 2018 14:51:52,172      - 90
+15 Jan 2018 14:51:54,276      - Ali
+15 Jan 2018 14:51:56,660      - 29
+15 Jan 2018 14:52:35,644      - Khalid
+15 Jan 2018 14:52:38,508      - Labib
+15 Jan 2018 14:52:38,839      - Helio
+15 Jan 2018 14:52:39,853      - 60
+15 Jan 2018 14:52:41,599      - Atef
+15 Jan 2018 14:52:43,648      - 19
+15 Jan 2018 14:52:56,116      - Number of rows added in PERSON table: 8
+15 Jan 2018 14:52:57,772      - Number of rows added in CHILD table: 2
+15 Jan 2018 14:54:05,694      - File type: csv
+15 Jan 2018 14:54:06,309      - Joseph
+15 Jan 2018 14:54:06,310      - Habib
+15 Jan 2018 14:54:06,310      - Nasr
+15 Jan 2018 14:54:06,310      - 90
+15 Jan 2018 14:54:06,310      - Ali
+15 Jan 2018 14:54:06,310      - 29
+15 Jan 2018 14:54:06,320      - Khalid
+15 Jan 2018 14:54:06,320      - Labib
+15 Jan 2018 14:54:06,320      - Helio
+15 Jan 2018 14:54:06,320      - 60
+15 Jan 2018 14:54:06,320      - Atef
+15 Jan 2018 14:54:06,321      - 19
+15 Jan 2018 14:54:06,325      - Number of rows added in PERSON table: 3
+15 Jan 2018 14:54:06,325      - Number of rows added in CHILD table: 2
+15 Jan 2018 14:54:06,363      - Success parsing file in 670 milliseconds

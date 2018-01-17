@@ -1,0 +1,52 @@
+17 Jan 2018 12:20:38,217      - File type: csv
+17 Jan 2018 12:21:01,129      - File type: csv
+17 Jan 2018 12:33:25,935      - File type: csv
+17 Jan 2018 12:36:05,588      - File type: csv
+17 Jan 2018 12:37:33,762      - File type: csv
+17 Jan 2018 12:49:17,685      - File type: csv
+17 Jan 2018 12:49:18,234      - Number of rows added in PERSON table: 1
+17 Jan 2018 12:49:18,363      - Ali
+17 Jan 2018 12:49:18,363      - 29
+17 Jan 2018 12:50:17,990      - File type: csv
+17 Jan 2018 12:50:18,565      - Number of rows added in PERSON table: 1
+17 Jan 2018 12:50:18,700      - Ali
+17 Jan 2018 12:50:18,701      - 29
+17 Jan 2018 12:50:18,755      - Number of rows added in CHILD table: 1
+17 Jan 2018 12:50:18,965      - Number of rows added in PERSON table: 1
+17 Jan 2018 12:50:19,161      - Number of rows added in PERSON table: 1
+17 Jan 2018 12:50:19,332      - Atef
+17 Jan 2018 12:50:19,332      - 19
+17 Jan 2018 12:50:19,339      - Number of rows added in CHILD table: 1
+17 Jan 2018 12:50:19,501      - File type: java
+17 Jan 2018 12:50:19,501      - D:\Checker\xml.java is unsupported.
+17 Jan 2018 12:50:19,501      - Success parsing file in 1519 milliseconds
+17 Jan 2018 12:52:11,952      - File type: csv
+17 Jan 2018 12:52:12,468      - Number of rows added in PERSON table: 1
+17 Jan 2018 12:52:12,581      - Ali
+17 Jan 2018 12:52:12,581      - 29
+17 Jan 2018 12:53:09,723      - File type: csv
+17 Jan 2018 12:53:10,277      - Number of rows added in PERSON table: 1
+17 Jan 2018 12:53:10,398      - Ali
+17 Jan 2018 12:53:10,398      - 29
+17 Jan 2018 12:53:10,464      - Number of rows added in CHILD table: 1
+17 Jan 2018 12:53:10,626      - Number of rows added in PERSON table: 1
+17 Jan 2018 12:53:10,774      - Number of rows added in PERSON table: 1
+17 Jan 2018 12:53:10,910      - Atef
+17 Jan 2018 12:53:10,911      - 19
+17 Jan 2018 12:53:10,915      - Number of rows added in CHILD table: 1
+17 Jan 2018 12:53:11,032      - File type: xml
+17 Jan 2018 12:53:11,094      - Number of rows added in PERSON table: 1
+17 Jan 2018 12:53:11,256      - John
+17 Jan 2018 12:53:11,257      - 25
+17 Jan 2018 12:53:11,261      - Number of rows added in CHILD table: 1
+17 Jan 2018 12:53:11,438      - Number of rows added in PERSON table: 1
+17 Jan 2018 12:53:11,613      - Afifi
+17 Jan 2018 12:53:11,613      - 30
+17 Jan 2018 12:53:11,620      - Number of rows added in CHILD table: 1
+17 Jan 2018 12:53:11,743      - File type: java
+17 Jan 2018 12:53:11,743      - D:\Checker\xml.java is unsupported.
+17 Jan 2018 12:53:11,744      - Success parsing file in 2030 milliseconds
+17 Jan 2018 12:56:10,680      - File type: java
+17 Jan 2018 12:56:10,680      - Error parsing D:\Checker\xml.java
+17 Jan 2018 12:56:10,681      - java is unsupported
+17 Jan 2018 12:56:10,681      - Success parsing file in 10 milliseconds

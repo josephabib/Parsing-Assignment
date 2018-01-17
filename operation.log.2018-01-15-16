@@ -1,0 +1,16 @@
+15 Jan 2018 16:24:10,112      - File type: csv
+15 Jan 2018 16:24:10,643      - Joseph
+15 Jan 2018 16:24:10,643      - Habib
+15 Jan 2018 16:24:10,643      - Nasr
+15 Jan 2018 16:24:10,643      - 90
+15 Jan 2018 16:24:10,644      - Ali
+15 Jan 2018 16:24:10,644      - 29
+15 Jan 2018 16:24:10,683      - Khalid
+15 Jan 2018 16:24:10,683      - Labib
+15 Jan 2018 16:24:10,683      - Helio
+15 Jan 2018 16:24:10,683      - 60
+15 Jan 2018 16:24:10,683      - Atef
+15 Jan 2018 16:24:10,683      - 19
+15 Jan 2018 16:24:10,687      - Number of rows added in PERSON table: 3
+15 Jan 2018 16:24:10,688      - Number of rows added in CHILD table: 2
+15 Jan 2018 16:24:10,722      - Success parsing file in 611 milliseconds

@@ -1,0 +1,43 @@
+16 Jan 2018 15:00:20,550      - File type: csv
+16 Jan 2018 15:02:37,750      - File type: csv
+16 Jan 2018 15:03:08,641      - Ali
+16 Jan 2018 15:03:14,760      - 29
+16 Jan 2018 15:04:08,320      - File type: csv
+16 Jan 2018 15:05:05,603      - Number of rows added in PERSON table: 1
+16 Jan 2018 15:05:31,473      - Ali
+16 Jan 2018 15:05:43,017      - 29
+16 Jan 2018 15:05:48,114      - Number of rows added in CHILD table: 1
+16 Jan 2018 15:06:12,683      - Success parsing file in 123956 milliseconds
+16 Jan 2018 15:12:26,434      - File type: csv
+16 Jan 2018 15:13:16,750      - Number of rows added in PERSON table: 1
+16 Jan 2018 15:13:48,661      - Ali
+16 Jan 2018 15:13:55,436      - 29
+16 Jan 2018 15:14:05,622      - Number of rows added in CHILD table: 1
+16 Jan 2018 15:16:50,195      - File type: csv
+16 Jan 2018 15:17:12,353      - Number of rows added in PERSON table: 1
+16 Jan 2018 15:17:17,506      - Ali
+16 Jan 2018 15:17:19,758      - 29
+16 Jan 2018 15:17:22,680      - Number of rows added in CHILD table: 1
+16 Jan 2018 15:18:34,191      - File type: csv
+16 Jan 2018 15:18:46,590      - Number of rows added in PERSON table: 1
+16 Jan 2018 15:18:47,381      - Ali
+16 Jan 2018 15:18:47,551      - 29
+16 Jan 2018 15:18:47,745      - Number of rows added in CHILD table: 1
+16 Jan 2018 15:19:31,207      - Number of rows added in PERSON table: 1
+16 Jan 2018 15:20:56,184      - File type: csv
+16 Jan 2018 15:21:07,343      - Number of rows added in PERSON table: 1
+16 Jan 2018 15:21:21,481      - Ali
+16 Jan 2018 15:21:22,465      - 29
+16 Jan 2018 15:22:14,104      - File type: csv
+16 Jan 2018 15:22:42,110      - Number of rows added in PERSON table: 1
+16 Jan 2018 15:22:45,664      - Ali
+16 Jan 2018 15:22:46,578      - 29
+16 Jan 2018 15:22:53,123      - Number of rows added in CHILD table: 1
+16 Jan 2018 15:23:16,883      - Number of rows added in PERSON table: 1
+16 Jan 2018 15:23:36,163      - Number of rows added in PERSON table: 1
+16 Jan 2018 15:23:41,507      - Atef
+16 Jan 2018 15:23:42,456      - 19
+16 Jan 2018 15:23:43,516      - Number of rows added in CHILD table: 1
+16 Jan 2018 15:24:11,179      - Success parsing file in 116629 milliseconds
+16 Jan 2018 15:29:59,301      - File type: csv
+16 Jan 2018 15:57:09,331      - File type: xml

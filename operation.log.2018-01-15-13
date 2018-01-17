@@ -1,0 +1,49 @@
+15 Jan 2018 13:29:42,343      - File type: csv
+15 Jan 2018 13:29:59,402      - File type: csv
+15 Jan 2018 13:30:00,005      - John
+15 Jan 2018 13:30:00,005      - Habib
+15 Jan 2018 13:30:00,005      - Nasr
+15 Jan 2018 13:30:00,005      - 70
+15 Jan 2018 13:30:00,006      - Jose
+15 Jan 2018 13:30:00,006      - 29
+15 Jan 2018 13:32:32,444      - File type: csv
+15 Jan 2018 13:32:33,012      - John
+15 Jan 2018 13:32:33,012      - Habib
+15 Jan 2018 13:32:33,014      - Nasr
+15 Jan 2018 13:32:33,014      - 70
+15 Jan 2018 13:32:33,014      - Jose
+15 Jan 2018 13:32:33,014      - 29
+15 Jan 2018 13:32:33,027      - Khalid
+15 Jan 2018 13:32:33,027      - Labib
+15 Jan 2018 13:32:33,027      - Helio
+15 Jan 2018 13:32:33,027      - 60
+15 Jan 2018 13:32:33,027      - Atef
+15 Jan 2018 13:32:33,027      - 19
+15 Jan 2018 13:32:33,032      - Number of rows added in PERSON table: 1
+15 Jan 2018 13:32:33,032      - Number of rows added in CHILD table: 1
+15 Jan 2018 13:32:33,068      - Success parsing file in 625 milliseconds
+15 Jan 2018 13:38:54,805      - File type: csv
+15 Jan 2018 13:39:20,513      - File type: csv
+15 Jan 2018 13:39:21,095      - 20
+15 Jan 2018 13:39:21,096      - Habib
+15 Jan 2018 13:39:21,096      - Nasr
+15 Jan 2018 13:39:21,096      - 70
+15 Jan 2018 13:39:21,096      - Jose
+15 Jan 2018 13:39:21,096      - 29
+15 Jan 2018 13:39:21,175      - Khalid
+15 Jan 2018 13:39:21,175      - Labib
+15 Jan 2018 13:39:21,175      - Helio
+15 Jan 2018 13:39:21,175      - 60
+15 Jan 2018 13:39:21,176      - Atef
+15 Jan 2018 13:39:21,176      - 19
+15 Jan 2018 13:39:21,178      - Number of rows added in PERSON table: 1
+15 Jan 2018 13:39:21,178      - Number of rows added in CHILD table: 1
+15 Jan 2018 13:39:21,214      - Success parsing file in 702 milliseconds
+15 Jan 2018 13:39:21,214      - In seconds: 0
+15 Jan 2018 13:41:48,972      - File type: csv
+15 Jan 2018 13:55:14,480      - File type: csv
+15 Jan 2018 13:55:38,104      - File type: csv
+15 Jan 2018 13:55:55,214      - File type: csv
+15 Jan 2018 13:56:08,117      - File type: csv
+15 Jan 2018 13:57:07,752      - File type: csv
+15 Jan 2018 13:57:38,119      - File type: csv
